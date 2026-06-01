@@ -18,5 +18,7 @@ print(sum(L))
 
 ## Output
 <img width="542" height="205" alt="image" src="https://github.com/user-attachments/assets/c1992e82-cf06-4064-b8d1-2f5458dd94b5" />
+
+
 ## Result
 Thus, the program has been successfully executed.
